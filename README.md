@@ -4,9 +4,9 @@ The main goal of this module is to scan bluetooth inside the house to detect dev
 
 Examples :
 
-- [FitBit Charge 2](https://www.amazon.fr/gp/product/B01KSX392O)
-- A [Nut mini](https://www.amazon.fr/gp/product/B01AUNMQMG) Bluetooth keychain
-- [Xiaomi Mi Band 2](https://www.amazon.fr/gp/product/B01N011RPS)
+- [FitBit Charge 2](https://www.amazon.fr/gp/product/B01KSX392O?tag=gladproj-21)
+- A [Nut mini](https://www.amazon.fr/gp/product/B01AUNMQMG?tag=gladproj-21) Bluetooth keychain
+- [Xiaomi Mi Band 2](https://www.amazon.fr/gp/product/B01N011RPS?tag=gladproj-21)
 
 Thanks to these devices, Gladys is able to know when I'm at home or not, because if I'm at home, my Fitbit or my keys are probably on me. 
 
@@ -14,8 +14,8 @@ The second goal is to retrieve data from BLE devices.
 
 Examples :
 
-- [Xiaomi Flower Care](https://www.amazon.fr/gp/product/dp/B01LXOJSWA)
-- [Xiaomi Mi Temperature and Humidity Monitor](https://www.amazon.fr/gp/product/B078W719XH)
+- [Xiaomi Flower Care](https://www.amazon.fr/gp/product/dp/B01LXOJSWA?tag=gladproj-21)
+- [Xiaomi Mi Temperature and Humidity Monitor](https://www.amazon.fr/gp/product/B078W719XH?tag=gladproj-21)
 - Parrot Flower Power
 
 ## Installation

@@ -1,17 +1,20 @@
 {
   "name": "gladys-bluetooth",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Gladys Bluetooth Scanner",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pierre-Gilles Leymarie",
+  "author": "Pierre-Gilles Leymarie, Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
+    "async": "~0.2.9",
     "emoji-strip": "^1.0.1",
-    "noble": "^1.8.1",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "flower-power": "^0.3.0",
+    "noble": "^1.9.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.1",
+    "xiaomi-gap-parser": "^1.0.2"
   }
 }
